@@ -13,7 +13,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 
 ## Links
-[Color Picker page]()
+[Color Picker page](https://axinitm.github.io/ODC-Color-picker/)
 
 
 ## The tasks and my comments
